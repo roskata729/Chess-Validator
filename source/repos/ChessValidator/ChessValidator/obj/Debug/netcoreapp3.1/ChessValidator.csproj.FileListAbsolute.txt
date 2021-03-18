@@ -1,0 +1,13 @@
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\bin\Debug\netcoreapp3.1\ChessValidator.exe
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\bin\Debug\netcoreapp3.1\ChessValidator.deps.json
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\bin\Debug\netcoreapp3.1\ChessValidator.runtimeconfig.json
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\bin\Debug\netcoreapp3.1\ChessValidator.runtimeconfig.dev.json
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\bin\Debug\netcoreapp3.1\ChessValidator.dll
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\bin\Debug\netcoreapp3.1\ChessValidator.pdb
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\obj\Debug\netcoreapp3.1\ChessValidator.csprojAssemblyReference.cache
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\obj\Debug\netcoreapp3.1\ChessValidator.AssemblyInfoInputs.cache
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\obj\Debug\netcoreapp3.1\ChessValidator.AssemblyInfo.cs
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\obj\Debug\netcoreapp3.1\ChessValidator.csproj.CoreCompileInputs.cache
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\obj\Debug\netcoreapp3.1\ChessValidator.dll
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\obj\Debug\netcoreapp3.1\ChessValidator.pdb
+C:\Users\roska\source\repos\ChessValidator\ChessValidator\obj\Debug\netcoreapp3.1\ChessValidator.genruntimeconfig.cache
